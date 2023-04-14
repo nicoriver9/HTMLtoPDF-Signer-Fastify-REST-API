@@ -1,4 +1,4 @@
-# Sign a pdf with Javascript
+# HTML to PDF and sign it with Javascript
 Repository to sign pdfs using PDF-LIB.js and node-signpdf
 
 ## Install
